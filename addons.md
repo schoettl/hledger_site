@@ -19,6 +19,9 @@ More tools:
 [hledger-check.hs](https://github.com/simonmichael/hledger/blob/master/bin/hledger-check.hs)
 checks more powerful account balance assertions.
 
+[hledger-assign-acc.sh](https://github.com/schoettl/hledger-contrib)
+lets you interactively and quickly (re)assign account names for missing or wrong accounts in postings, e.g. `income:unknown`.
+
 [ledger-autosync](https://pypi.python.org/pypi/ledger-autosync)
 can download, deduplicate and/or convert OFX data (includes hledger support, 
 rename/symlink it to hledger-autosync to see it in commands list)
